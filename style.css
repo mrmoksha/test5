@@ -1,0 +1,56 @@
+h1{
+    color: red;
+}
+p{
+    color: rgb(240, 140, 65);
+}
+button{
+    color: rgba(19, 27, 27, 0.5);
+}
+a{
+    color: #1f2c3d;
+}
+.div2{
+    background-image: url("../images/background.png");
+    height: 50%vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.new2{
+    width: 500px;
+    height: 50vh;
+    background-color: aqua;
+}
+.con1{
+    padding: 100px 50px;
+}
+.new3{
+    width: 500px;
+    height: 50vh;
+    background-color: aqua;
+    margin-top: 100px;
+}
+.con2{
+    padding: 100px 50px;
+}
+.new4{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    border: 5px solid red;
+    border-radius: 50%;
+}
+.new5{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    border-top: 10px solid blueviolet;
+    border-right: 10px dashed green;
+    border-bottom: 10px double yellow;
+    border-left: 10px dotted rgb(211, 82, 30);
+}
+.txt{
+    padding: 30px;
+}
